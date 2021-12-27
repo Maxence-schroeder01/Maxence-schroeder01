@@ -54,4 +54,4 @@
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 [Unity]: https://unity.com/
-[python] https://www.djangoproject.com/
+[python]: https://www.djangoproject.com/
