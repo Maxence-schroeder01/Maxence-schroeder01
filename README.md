@@ -1,7 +1,5 @@
 ### Hello, Je suis Maxence Schroeder - aka [Maxence-Schroeder01][website] 👋 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://maxence-schroeder.com)
-
 ## Je suis juste un developper
 
 - 🌱 J'adore souvent changer de languages pour un maximum me diversifier 🤣
