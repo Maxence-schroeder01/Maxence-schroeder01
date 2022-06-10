@@ -4,7 +4,7 @@
 
 - 🌱 J'adore souvent changer de langage pour me diversifier au maximum 
 - 👯 Je suis toujours a la recherche de nouveaux défis
-✅ 🥅 2022 Goals: Finir le cegep avec le max de points possibles
+- ✅ 🥅 2022 Goals: Finir le cegep avec le max de points possibles
 - ⚡ Fun fact: J'adore organiser des lunch to learn
 
 ### Contacter-moi:
